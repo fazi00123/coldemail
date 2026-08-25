@@ -9,23 +9,23 @@ Email:
 info@energyshieldnh.com
 
 Position:
-General Inbox / Support
+Company Inbox
 
 Subject:
-A quick website preview for Energy Shield of New Hampshire
+A quick roofing & solar website preview for Energy Shield of New Hampshire
 
 Body:
 Hi Energy Shield of New Hampshire Team,
 
-I came across Energy Shield of New Hampshire and put together a quick preview of what your website could look like to help showcase your standing seam metal roofing, GAF shingle replacements, and solar integrations:
+I came across Energy Shield of New Hampshire and put together a quick preview of what your website could look like:
 
 https://coldemail-dun.vercel.app/coldemail/EnergyShieldofNewHampshire/index.html
 
-I focused the demo on making it easier for visitors to take action, with a cleaner UI, stronger calls-to-action, and mobile features like a sticky call bar and quick request options for free roof inspections.
+Knowing that you have been serving the Lakes Region with roofing and solar solutions for over 40 years, I focused the demo on making it easier for NH homeowners to take action. The design highlights your shingle and standing seam metal roofing craftsmanship alongside your seamless solar integrations.
 
-I also incorporated conversion-focused elements to help reduce hesitation and turn more website visitors into direct calls and quote requests, while making the site feel more engaging and easier to navigate.
+The layout includes conversion-focused elements like quick estimate forms, stronger calls-to-action, and mobile features like a sticky call bar to help convert more local traffic into phone calls and service requests.
 
-No obligation — just wanted to show you what's possible for your business. Let me know what you think.
+No obligation — just wanted to show you what's possible. Let me know what you think.
 
 Abdul Rehman (CEO)
 
@@ -49,4 +49,4 @@ Link:
 https://www.facebook.com/energyshieldnh/
 
 Message:
-Hi Energy Shield of New Hampshire Team, I came across your business and put together a quick website preview for the company. I focused it on stronger calls to action, mobile contact options, and making it easier for visitors to request free roof inspections and estimates. No obligation at all — I just wanted to show you what I came up with: https://coldemail-dun.vercel.app/coldemail/EnergyShieldofNewHampshire/index.html
+Hi Energy Shield of New Hampshire Team, I came across your business online and put together a quick, custom website preview for you: https://coldemail-dun.vercel.app/coldemail/EnergyShieldofNewHampshire/index.html. I focused the demo on stronger calls-to-action, mobile contact options, and highlighting your 40+ years of roofing and solar expertise in the Lakes Region. No obligation at all — I just wanted to show you what I came up with!
